@@ -1,6 +1,5 @@
 This project focuses on evaluating and comparing various feature extraction methods—SIFT, 
-ORB, and KAZE—for object recognition within a dataset of images because they are not 
-patented algorithms. 
+ORB, and KAZE—for object recognition within a dataset of images. 
 
 The process involves loading and splitting the dataset into training and 
 testing sets, applying each feature extraction method to detect keypoints and compute 
